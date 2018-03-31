@@ -1,0 +1,11 @@
+certifi==2017.7.27.1
+cycler==0.10.0
+matplotlib==2.0.2
+numpy==1.13.3
+pyparsing==2.2.0
+python-dateutil==2.6.1
+pytz==2017.2
+scipy==1.0.0
+six==1.11.0
+tornado==4.5.2
+wincertstore==0.2
